@@ -11,3 +11,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/B1730/B1730/output/snake.svg" alt="Snake animation" />
+
+###
